@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'First Succeewewss on Github Jenkins Python Flask World!'
+    return 'First Succeewss on Github Jenkins Python Flask World!'
 
 if __name__ == '__main__':
     app.run()
